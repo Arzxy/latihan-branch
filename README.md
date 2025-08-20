@@ -1,3 +1,3 @@
 # latihan-branch testinger
 
-github itu asik.
+github itu asik.s
