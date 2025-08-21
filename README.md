@@ -1,2 +1,2 @@
 # latihan-branch testinger
-github itu mantul.
+test squash 3
