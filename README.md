@@ -1,2 +1,2 @@
 # latihan-branch testinger
-test squash 3
+test squash 1
