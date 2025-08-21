@@ -1,2 +1,2 @@
 # latihan-branch testinger
-anya test 3
+anya test 1
