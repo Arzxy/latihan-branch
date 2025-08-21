@@ -1,4 +1,6 @@
 # latihan-branch testinger
 github itu asik.s
 
-kolaborator yg ubah
+kolaborator yg ubah 
+
+skrng owner
